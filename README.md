@@ -28,11 +28,7 @@ _Nota: Los siguientes temas NO son todos los que se aprenderán en el curso, hay
 
 ### React Router
 
-<<<<<<< HEAD
-- React Router v5 (in my notes y use react router v6)
-=======
 - React Router v5 (in my notes i used react router v6)
->>>>>>> 9e05b67de4db60a42ce299c82afdd1f9c6274981
 
 ### Memoization
 
