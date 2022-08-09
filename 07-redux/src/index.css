@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+h3 {
+  margin: 0;
+}
+.products-section {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  background-color: rgb(251, 247, 247);
+  box-shadow: 0 0 2rem rgb(179, 176, 176) inset;
+  margin: 0 3rem;
+  padding: 1rem;
+}
+
+.cart-section {
+  text-align: left;
+  margin: 3rem;
+}
+.cart-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
